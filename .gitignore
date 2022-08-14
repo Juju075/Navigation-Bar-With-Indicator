@@ -1,3 +1,8 @@
+# Ignore all files in the 'logs' subfolder.
+/notes/
+
+
+# Ignore all files with the specified name.
 notes.md
 notes-css.md
-notes-js.md
+notes-js.
